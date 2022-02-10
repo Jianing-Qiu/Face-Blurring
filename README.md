@@ -1,6 +1,6 @@
 # Face-Blurring
 
-Face blurring code used in the Innovative Passive Dietary Monitoring Project funded by the Bill & Melinda Gates Foundation (Opportunity ID: OPP1171395)
+Face blurring code used in the **Innovative Passive Dietary Monitoring Project funded by the Bill & Melinda Gates Foundation (Opportunity ID: OPP1171395)**
 ![](./assets/face_blurring_sample.jpg)
 
 ## Requirements
